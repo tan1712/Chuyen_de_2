@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.ud_ban_hang_onl"
+=======
+    namespace = "com.example.ban_hang_onl"
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.ud_ban_hang_onl"
+=======
+        applicationId = "com.example.ban_hang_onl"
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

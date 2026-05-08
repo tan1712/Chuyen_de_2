@@ -1,9 +1,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="ud_ban_hang_onl"
         android:name="${applicationName}"
         android:usesCleartextTraffic="true"
+=======
+    <application
+        android:label="ban_hang_onl"
+        android:name="${applicationName}"
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Ud Ban Hang Onl</string>
+=======
+	<string>Ban Hang Onl</string>
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>ud_ban_hang_onl</string>
+=======
+	<string>ban_hang_onl</string>
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

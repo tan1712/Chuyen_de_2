@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "ud_ban_hang_onl" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "ud_ban_hang_onl" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "ud_ban_hang_onl.exe" "\0"
             VALUE "ProductName", "ud_ban_hang_onl" "\0"
+=======
+            VALUE "FileDescription", "ban_hang_onl" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "ban_hang_onl" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "ban_hang_onl.exe" "\0"
+            VALUE "ProductName", "ban_hang_onl" "\0"
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

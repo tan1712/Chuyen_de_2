@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(ud_ban_hang_onl LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "ud_ban_hang_onl")
+=======
+project(ban_hang_onl LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "ban_hang_onl")
+>>>>>>> c2b00120a7762f1d803fd8590bf89e51e4dcd427
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
